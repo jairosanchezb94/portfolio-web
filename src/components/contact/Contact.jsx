@@ -37,7 +37,7 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Contactame si estas interesado en mi</h1>
+          <h1 className="c-title">Contáctame si estás interesado/a en mí</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
@@ -55,8 +55,8 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Estas interesado en contactarme?</b> En el siguiente
-            formulario lo podras hacer.
+            <b>Estás interesado en contactarme?</b> En el siguiente
+            formulario lo podrás hacer.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nombre" name="user_name" />

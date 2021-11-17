@@ -16,7 +16,7 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">Sobre mi</h1>
+        <h1 className="a-title">Sobre mí</h1>
         <p className="a-sub">
           Soy un chico joven con muchas ganas de aprender y seguir desarrollándome como programado - desarrollador. 
           Me apasiona este mundo. También tengo como hobby la música, la fotografía y el cine.

@@ -16,8 +16,8 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            Buenas soy un chico joven que le encanta codeguear y el mundo de la programación como Programador Frontend, con algo de experiencia en el Backend. También me gusta el diseño gráfico como UI/UX. 
-            En esta página podrás ver detalles de mis datos y mis proyectos junto a la experiencia. 
+            Bienvenido/a, soy un chico joven al que le encanta el mundo de la Programación. Tengo experiencia tanto en Backend como en Frontend, aunque mis conocimientos son más amplios en Frontend. Asimismo, me gusta el diseño gráfico. 
+            En esta página podrás obtener mis datos, así como observar algunos proyectos que he llevado a cabo. 
           </p>
         </div>  
       </div>
